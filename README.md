@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Binod1404
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning C programming
+- 🌱 I’m currently learning Web development and DSA
 - 📫 How to reach me https://linktr.ee/binod2003
 - 
 
