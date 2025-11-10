@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binod K C </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Binod1404&label=Profile%20views&color=0e75b6&style=flat" alt="Binod1404" /> </p>
 
 # 💫 About Me:
 🔭 I’m a recent CSE graduate from VTU university <br>👯 I’m looking to collaborate on Web Apps <br>🌱 I’m currently Exploring Web Technologies and DevOps<br>
