@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Binod K C </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Binod1404&label=Profile%20views&color=0e75b6&style=flat" alt="Binod1404" /> </p>
 
-# 💫 About Me:
-🔭 I’m a recent CSE graduate from VTU university <br>👯 I’m looking to collaborate on Web Apps <br>🌱 I’m currently Exploring Web Technologies and DevOps<br>
+## 🌟 About Me
 
+🎓 Recent CSE graduate from VTU University  
+💻 Passionate about software development and problem-solving  
+🌐 Interested in building modern web applications  
+🤝 Open to collaborating on real-world projects  
+🌱 Currently exploring different technologies & DevOps  
+🚀 Actively looking for entry-level software developer roles
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Binod1404" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/k-c-binod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/k_c_binod" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="Binod122003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a></p>
